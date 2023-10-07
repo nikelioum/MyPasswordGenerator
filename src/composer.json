@@ -1,0 +1,19 @@
+{
+    "name": "nikelioum/mypasswordgenerator",
+    "description": "A secure password generator package",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "MyPasswordGenerator\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dimitris Liaropoulos",
+            "email": "your@email.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
